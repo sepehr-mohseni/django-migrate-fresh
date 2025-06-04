@@ -3,14 +3,13 @@
 [![PyPI version](https://badge.fury.io/py/django-migrate-fresh.svg)](https://badge.fury.io/py/django-migrate-fresh)
 [![Downloads](https://static.pepy.tech/badge/django-migrate-fresh)](https://pepy.tech/project/django-migrate-fresh)
 [![Downloads per month](https://static.pepy.tech/badge/django-migrate-fresh/month)](https://pepy.tech/project/django-migrate-fresh)
-[![Python versions](https://img.shields.io/pypi/pyversions/django-migrate-fresh.svg)](https://pypi.org/project/django-migrate-fresh/)
 [![License](https://img.shields.io/pypi/l/django-migrate-fresh.svg)](https://github.com/sepehr-mohseni/django-migrate-fresh/blob/main/LICENSE)
 
 An advanced Django package that provides Laravel-style `migrate:fresh` functionality with powerful features, beautiful interface, and comprehensive safety measures.
 
 ---
 
-**Supported Python versions:** **3.8, 3.9, 3.10, 3.11, 3.12, 3.13**
+**Supported Python versions:** **3.8+**
 
 ---
 
