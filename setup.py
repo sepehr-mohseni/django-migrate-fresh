@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="django-migrate-fresh",
-    version="2.0.3",
+    version="2.0.4",
     author="Sepehr Mohseni",
     author_email="isepehrmohseni@gmail.com",
     description="Advanced Django package with Laravel-style migrate:fresh functionality, beautiful themes, and comprehensive safety features",
