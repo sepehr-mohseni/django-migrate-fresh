@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="django-migrate-fresh",
-    version="2.0.0",
+    version="2.0.2",
     author="Sepehr Mohseni",
     author_email="isepehrmohseni@gmail.com",
     description="Advanced Django package with Laravel-style migrate:fresh functionality, beautiful themes, and comprehensive safety features",
@@ -23,7 +23,8 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
-        "Framework :: Django",
+        "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
         "Framework :: Django :: 3.2",
         "Framework :: Django :: 4.0",
         "Framework :: Django :: 4.1",
