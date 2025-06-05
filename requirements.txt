@@ -5,6 +5,8 @@ cffi==1.17.1
 charset-normalizer==3.4.2
 cryptography==45.0.3
 Django==5.2.1
+django-stubs==5.2.0
+django-stubs-ext==5.2.0
 docutils==0.21.2
 id==1.5.0
 idna==3.10
@@ -16,8 +18,12 @@ keyring==25.6.0
 markdown-it-py==3.0.0
 mdurl==0.1.2
 more-itertools==10.7.0
+mypy==1.16.0
+mypy_extensions==1.1.0
 nh3==0.2.21
 packaging==25.0
+pathspec==0.12.1
+psutil==7.0.0
 pycparser==2.22
 Pygments==2.19.1
 pyproject_hooks==1.2.0
@@ -29,4 +35,6 @@ rich==14.0.0
 SecretStorage==3.3.3
 sqlparse==0.5.3
 twine==6.1.0
+types-PyYAML==6.0.12.20250516
+typing_extensions==4.14.0
 urllib3==2.4.0
