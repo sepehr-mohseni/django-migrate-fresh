@@ -30,20 +30,16 @@ setup(
     ],
     extras_require={
         "testing": [
-            "coverage>=6.0",
-            "coveralls>=3.0",
             "pytest>=6.0",
             "pytest-django>=4.0",
-            "pytest-cov>=3.0",
         ],
         "notifications": ["requests>=2.25.0", "slack-sdk>=3.0.0"],
         "profiling": ["psutil>=5.8.0", "memory-profiler>=0.60.0"],
+        "ai": ["psutil>=5.8.0"],
+        "performance": ["psutil>=5.8.0", "memory-profiler>=0.60.0"],
         "all": [
-            "coverage>=6.0",
-            "coveralls>=3.0",
             "pytest>=6.0",
             "pytest-django>=4.0",
-            "pytest-cov>=3.0",
             "requests>=2.25.0",
             "slack-sdk>=3.0.0",
             "psutil>=5.8.0",
