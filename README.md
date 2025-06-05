@@ -1,6 +1,7 @@
 # Django Migrate Fresh 🚀
 
-[![Downloads](https://static.pepy.tech/badge/django-migrate-fresh/month)](https://pepy.tech/project/django-migrate-fresh)
+[![Downloads](https://static.pepy.tech/badge/django-migrate-fresh)](https://pepy.tech/project/django-migrate-fresh)
+[![Downloads per month](https://static.pepy.tech/badge/django-migrate-fresh/month)](https://pepy.tech/project/django-migrate-fresh)
 
 The most advanced Django database migration tool with **AI-powered optimization** and **intelligent automation**. Drop all tables and re-run migrations with Laravel-style `migrate:fresh` functionality, enhanced with enterprise-grade features.
 
