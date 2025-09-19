@@ -1,6 +1,6 @@
 # Django Migrate Fresh 🚀
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/django-migrate-fresh?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLUE&right_color=YELLOW&left_text=Installs)](https://pepy.tech/projects/django-migrate-fresh)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/django-migrate-fresh?period=total&units=INTERNATIONAL_SYSTEM&left_color=GREY&right_color=BLUE&left_text=Installs)](https://pepy.tech/projects/django-migrate-fresh)
 
 A simple Django package that provides Laravel-style `migrate:fresh` functionality - drop all tables and re-run migrations with optional backup support.
 
